@@ -1,0 +1,1 @@
+print('bimba' not in 'efedxfwefvesvbimba')
